@@ -1,0 +1,3 @@
+13,Marchy,Sigh,Female,4000,Bhaktapur
+14,Manish,Giri,Memale,55000,Kathmandu
+15,Monty,Hanes,Memale,13000,Lalitpur
